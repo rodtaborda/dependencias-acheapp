@@ -1,7 +1,7 @@
 # dependencias-acheapp
 
-# node_modules - raíz
+# node_modules - raiz
 
-# plugins - raíz
+# plugins - raiz
 
 # lib - www/lib

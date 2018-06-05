@@ -1,0 +1,70 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-background-mode": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-google-analytics": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "ionic-plugin-deploy": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "br.com.icons4u.ache.cpv2"
+        }
+    }
+}
